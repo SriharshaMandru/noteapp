@@ -75,4 +75,4 @@ Calls showNotes function to update the displayed notes.
 
 * Calls showNotes function to update the displayed notes.
 
-  <img src="noteapp.png">
+  <img src="output/noteapp.png">
